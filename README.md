@@ -1,13 +1,13 @@
 # Scientific Calculator 🧮
 
 Welcome to the C# WPF Scientific Calculator project! 💻 This is a desktop application designed to perform various scientific calculations with a clean, modern user interface built using Windows Presentation Foundation (WPF).
+This proyect was made just for fun and learning :)
 
 ---
 
 ## 📸 Screenshot
 
 ![Calculator UI](images/ui.png)
-*(Ensure this image file is in your repository and the link is correct)*
 
 ---
 
